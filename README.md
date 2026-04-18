@@ -1,27 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋, I'm Pratham Shrestha</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Flutter Learner</h3>
 
-###
+---
 
-<p align="left">My name is Pratham Shrestha and I'm a Frontend Developer, from Banepa, Nepal</p>
+## 🚀 About Me
 
-###
+- 💻 Frontend Developer from **Banepa, Nepal**
+- 🐛 Creating bugs since 2020 (and fixing them too 😄)
+- 📚 Currently learning **Advanced MERN Stack** & **Flutter Mobile Development**
+- 🎯 Goal: Become a **skilled Full-Stack Developer** and build impactful real-world applications
+- 🧠 Fun fact: *I enjoy debugging more than writing code sometimes*
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ Tech Stack
 
-<p align="left">
-✨ Creating bugs since 2020 (and fixing them too 😄)<br>
-📚 I'm currently learning advanced MERN stack development and mobile app development with Flutter<br>
-🎯 Goals: To become a skilled full-stack developer and build impactful real-world applications<br>
-🎲 Fun fact: I enjoy debugging more than writing code sometimes!
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -31,4 +24,37 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
 </div>
-###
+
+---
+
+## 🔥 What I'm Working On
+
+- 🏠 Building **Urban Nest** – a flat renting platform
+- 📱 Exploring cross-platform apps with **Flutter**
+- ⚡ Improving performance and UI/UX in modern web apps
+
+---
+
+## 📈 Goals for 2026
+
+- 🚀 Master full-stack development (MERN + Mobile)
+- 🧩 Build scalable, production-level applications
+- 🌍 Contribute to open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 Portfolio: *Coming soon...*
+- 📫 Email: *Add your email here*
+- 🌐 LinkedIn: *Add your link*
+
+---
+
+## ⚡ Fun Zone
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+⭐ *Thanks for visiting my profile!*
